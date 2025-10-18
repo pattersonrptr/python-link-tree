@@ -6,7 +6,7 @@ meta:
   description: "Programmer python"
   title: "Patterson"
   author: "Patterson"
-  siteUrl: "https://medium.com/@pattersonjunior"
+  siteUrl: "https://pattersonrptr.github.io/python-link-tree/"
 links:
   - name: "Github"
     url: "https://github.com/pattersonrptr"
@@ -18,6 +18,8 @@ links:
   #   url: "https://t.me/king_triton"
   - name: "Instagram"
     url: "https://www.instagram.com/patterson_00110111/"
+  - name: "Medium"
+    url: "https://medium.com/@pattersonjunior"
   # - name: ""
   #   url: ""
 theme: "custom"
